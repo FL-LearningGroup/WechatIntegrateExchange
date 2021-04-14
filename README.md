@@ -25,5 +25,5 @@
 
 1. 微信账户验证，返回验证结果​
 
-## Frameword details step
+## Framework details step
 ![detailstep](https://github.com/FL-LearningGroup/WechatIntegrateExchange/blob/main/WeChatIntegrateADFSFrameworkDetailStep.JPG)
