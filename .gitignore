@@ -1,0 +1,22 @@
+# User-specific files
+.vs/
+.vscode/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+
+
+# Build results
+[Dd]ebug*/
+[Rr]elease/
+[Pp]ublish/
+[Aa]rtifacts
+
+# Packages
+nupkgs
+
+# Others
+[Bb]in
+[Oo]bj
+
